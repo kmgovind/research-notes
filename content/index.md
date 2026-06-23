@@ -1,5 +1,5 @@
 ---
-title: Research Notes
+title: Welcome!
 ---
 
 This wiki contains various notes that are relevant to my research.
